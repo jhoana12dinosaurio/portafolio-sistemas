@@ -4,7 +4,7 @@ export const personalInfo: PersonalInfo = {
   name: "Jhoana Lizett Aquino Dominguez",
   title: "Estudiante de Ingeniería de Sistemas",
   description: "Apasionado por la tecnología y el desarrollo de software. Especializado en desarrollo web full-stack con experiencia en React, Node.js y bases de datos. Siempre buscando nuevos desafíos y oportunidades para crecer profesionalmente.",
-  image: "/profile-placeholder.jpg",
+  image: "https://img.freepik.com/vector-gratis/ilustracion-concepto-programacion_114360-1351.jpg?semt=ais_hybrid&w=740",
   resume: "/resume.pdf",
   contact: {
     email: "jhoana.aquino10@gmail.com",
