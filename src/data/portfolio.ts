@@ -1,17 +1,17 @@
 import { PersonalInfo, Project, Skill, Experience, Education } from "@/types";
 
 export const personalInfo: PersonalInfo = {
-  name: "Tu Nombre",
+  name: "Jhoana Lizett Aquino Dominguez",
   title: "Estudiante de Ingeniería de Sistemas",
   description: "Apasionado por la tecnología y el desarrollo de software. Especializado en desarrollo web full-stack con experiencia en React, Node.js y bases de datos. Siempre buscando nuevos desafíos y oportunidades para crecer profesionalmente.",
   image: "/profile-placeholder.jpg",
   resume: "/resume.pdf",
   contact: {
-    email: "tu.email@ejemplo.com",
-    phone: "+57 300 123 4567",
-    location: "Bogotá, Colombia",
+    email: "jhoana.aquino10@gmail.com",
+    phone: "+51 937078339",
+    location: "perú,chimbote",
     social: {
-      github: "https://github.com/tuusuario",
+      github: "https://github.com/jhoana12dinosaurio",
       linkedin: "https://linkedin.com/in/tuusuario",
       twitter: "https://twitter.com/tuusuario"
     }
@@ -61,7 +61,7 @@ export const projects: Project[] = [
     description: "Aplicación web full-stack para gestión de estudiantes, profesores y cursos. Incluye sistema de autenticación, dashboard interactivo y reportes.",
     technologies: ["React", "Node.js", "MySQL", "Express", "Tailwind CSS"],
     image: "/projects/project1.jpg",
-    githubUrl: "https://github.com/tuusuario/gestion-academica",
+    githubUrl: "https://github.com/jhoana12dinosaurio",
     liveUrl: "https://gestion-academica.vercel.app",
     featured: true
   },
